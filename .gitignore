@@ -1,0 +1,20 @@
+# 敏感文件
+pk.txt
+proxies.txt
+**/pk.txt
+**/proxies.txt
+
+# 日志文件
+claim_log.txt
+claim_error_log.txt
+**/claim_log.txt
+**/claim_error_log.txt
+
+# 钱包文件
+wallets-*.csv
+wallet.csv
+
+# Node.js
+node_modules/
+package-lock.json
+npm-debug.log
