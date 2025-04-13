@@ -66,12 +66,10 @@ node hum/multiWalletClaim.js
 
 1. **私钥文件** - `pk.txt`
    - 每行一个私钥
-   - 不要上传到GitHub！
 
 2. **代理文件** - `proxies.txt`
    - 每行一个代理地址
    - 格式: `http://用户名:密码@代理地址:端口`
-   - 不要上传到GitHub！
 
 3. **ABI文件** - `hum/abi.json`
    - 合约ABI定义
