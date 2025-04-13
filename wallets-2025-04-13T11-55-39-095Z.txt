@@ -1,5 +1,0 @@
-=== Wallet 1 ===
-Address: 0x05E041669B6E167A82672f34be310fd3dCa63bc1
-Private Key: 0x4058a36850014b627c6facdcdacdadc69eb1e44ba355f28b9a244680a46e10ba
-Mnemonic: chief suit slim steak author slight black clock carry cliff fun iron
-
