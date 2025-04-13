@@ -12,7 +12,16 @@ claim_error_log.txt
 
 # 钱包文件
 wallets-*.csv
+wallets-*.txt
 wallet.csv
+wallet.txt
+*wallet*.csv
+*wallet*.txt
+
+# 转账结果文件
+转账结果-*.csv
+*结果*.csv
+*result*.csv
 
 # Node.js
 node_modules/
